@@ -6,14 +6,13 @@
 
 nav{
     display: flex;
-    padding: 18px;
+    padding: 18px 100px;
     justify-content: space-between;
     align-items: center;
 }
 
 .nav-right ul{
     display: flex;
-    float:right;
     list-style: none;
 }
 
@@ -22,13 +21,10 @@ nav{
 }
 
 .nav-right a{
-    color:rgb(134, 9, 4);
     text-decoration: none;
+    font-weight: 500;
 }
 
-.nav-right a:hover{
-    color:rgb(4, 0, 255);
-}
 
 header {
     display: flex;
