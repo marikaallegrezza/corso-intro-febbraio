@@ -27,3 +27,51 @@ body{
 #card-img-container img{
     width: 100%;
 }
+
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: darkred;
+}
+
+.blue{
+    background-color:blue;
+}
+
+.green{
+    background-color:green;
+}
+
+.orange{
+    background-color:orangered;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.pink{
+    background-color: palevioletred;
+}
+
+.brown{
+    background-color: brown;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.flex-container{
+    background-color:coral;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    height: 500px;
+    flex-wrap: wrap;
+}
