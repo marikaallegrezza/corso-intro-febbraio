@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+
+body{
+    margin: 20px;
+}
+
+.card{
+    width: 200px;
+    border: 1px solid black;
+    position: relative;
+    left: 100px;
+}
+
+#close-icon{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+}
+
+#card-img-container{
+    width: 100%;
+}
+
+#card-img-container img{
+    width: 100%;
+}
